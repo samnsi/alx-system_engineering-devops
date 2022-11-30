@@ -1,1 +1,1 @@
-The script cd aid in locating the user's needed directory
+cd to change directory to the user's needed directory
