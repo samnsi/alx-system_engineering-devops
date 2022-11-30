@@ -1,0 +1,1 @@
+cd is required to change directory to the user's required directory

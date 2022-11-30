@@ -1,1 +1,1 @@
-cd to change directory to the user's needed directory
+ls for listing content of a directory
