@@ -1,1 +1,1 @@
-The script pwd aid is changing directory to the needed directory
+The script cd aid in locating the needed directory
