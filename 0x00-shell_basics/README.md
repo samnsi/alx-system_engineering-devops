@@ -5,4 +5,5 @@ ls -al command to display hiden directories in long list format
 ls -na command that display visble, hidden and number in long list format
 mkdir /tmp/my_first_directory command to create directory into tmp
 mv betty /tmp/ /tmp/my_first_directory
-rm /tmp/my_first_directory
+rm -f /betty/ /tmp/my_first_directory/betty
+rm /my_first_directory/ /tmp/my_directory
