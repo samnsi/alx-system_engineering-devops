@@ -7,3 +7,4 @@ mkdir /tmp/my_first_directory command to create directory into tmp
 mv betty /tmp/ /tmp/my_first_directory
 rm -f /betty/ /tmp/my_first_directory/betty
 rm /my_first_directory/ /tmp/my_directory
+cd .. For previous working directory
