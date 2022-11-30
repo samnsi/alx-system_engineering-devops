@@ -1,2 +1,3 @@
 #!/bin/bash
-cd
+This command cd aid in taking the developer to locate the needed directory
+cd .. and also be used to take the developer to the home directory
