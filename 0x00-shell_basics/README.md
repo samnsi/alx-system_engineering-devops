@@ -15,3 +15,4 @@ cp -u *.html .. for copying in html
 mv [[:upper:]]* /tmp/u to move upper case
 rm *~ to clean all files in emacs
 mkdir -p welcome/to/school to create directories step by step and the stroke (/) breaks
+ls -a -p -m for files and directories seperated by period, stroke and commas
