@@ -10,3 +10,4 @@ rm /my_first_directory/ /tmp/my_directory
 cd .. For previous working directory
 ls -la ... /boot For all directories in current directories and boot
 file iamafile is for random check
+ln -s for simple link
