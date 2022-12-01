@@ -9,3 +9,4 @@ chmod ugo+x for everybody
 chmod 007 hello for permision for others only
 chmod 753 hello: to set mode
 chmod --reference=olleh hello : mirror permission
+chmod -R +X .subdirectories permision
