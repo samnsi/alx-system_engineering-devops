@@ -13,4 +13,5 @@ file iamafile is for random check
 ln -s for simple link
 cp -u *.html .. for copying in html
 mv [[:upper:]]* /tmp/u to move upper case
-rm *~
+rm *~ to clean all files in emacs
+mkdir -p welcome/to/school to create directories step by step and the stroke (/) breaks
