@@ -13,3 +13,4 @@ file iamafile is for random check
 ln -s for simple link
 cp -u *.html .. for copying in html
 mv [[:upper:]]* /tmp/u to move upper case
+rm *~
