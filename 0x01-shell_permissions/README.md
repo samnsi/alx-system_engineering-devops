@@ -6,3 +6,4 @@ touch: to create empty file
 chmod u+x hello: for user permissio
 chmod ug+x,o+r:for full permission
 chmod ugo+x for everybody
+chmod 007 hello for permision for others only
