@@ -5,3 +5,4 @@ chown betty hello: for switch of users in that order
 touch: to create empty file
 chmod u+x hello: for user permissio
 chmod ug+x,o+r:for full permission
+chmod ugo+x for everybody
