@@ -1,0 +1,1 @@
+echo "hello world" script for print hello world
