@@ -7,3 +7,4 @@ head /etc/passwd
 head -n 3 iacta to display line 3
 echo "Best School" >> \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 ls -al > ls_cwd_content for writing into a file
+tail -1 iacta >> iacta for duplicating iacta
